@@ -1,14 +1,18 @@
-# Sales Dashboard - Power BI
-## Project Overview
-Built an interactive sales dashboard using Power BI with predictive analytics for next 3 months.
+# Sales Forecast Dashboard - Power BI
 
-## Key Features
-- Sales by Region & Category
-- Monthly Sales Trend with Forecast
-- Top 10 Products by Profit
+![Sales Forecast Dashboard](dashboard.png)
 
-## Tools Used
-Power BI, DAX, Predictive Analytics
+## Overview
+Interactive Power BI dashboard built using "Predictive Analytics Using Historical Data" dataset. Analyzes sales trends, advertising spend impact, and profitability with a 3-month forecast.
+
+## Key Insights
+- **Total Sales**: 546K with **Total Profit**: 381K and **ROI**: 3.48
+- Sales peaked at 199K in 2020-2021 but dropped to 147K in 2022
+- Month 10 and Month 12 show highest sales at 52K and 56K respectively  
+- Advertising spend vs Sales shows scattered correlation — further analysis needed
+
+## Skills Demonstrated
+Power BI | DAX | Data Visualization | Predictive Analytics | KPI Design
 
 ## Dataset
-Sample Superstore Dataset from Kaggle
+Predictive Analytics Using Historical Data
