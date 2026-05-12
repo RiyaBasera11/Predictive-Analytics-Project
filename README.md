@@ -2,7 +2,7 @@
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Screenshot%202026-05-03%20115923.png)
 
 ---
 
